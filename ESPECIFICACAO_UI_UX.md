@@ -8,7 +8,7 @@ Este documento consolida a arquitetura de navegação, o guia de estilo e o deta
 
 O design foi concebido para ser funcional em ambientes escolares (alta luminosidade) e dispositivos de diversos desempenhos.
 
-### 🎨 Paleta de Cores
+### Paleta de Cores
 | Elemento | Hexadecimal | Aplicação |
 | :--- | :--- | :--- |
 | **Primária** | `#1A3358` | Headers, Barras de Navegação e Títulos. |
@@ -17,7 +17,7 @@ O design foi concebido para ser funcional em ambientes escolares (alta luminosid
 | **Alerta** | `#C62828` | Botão "Falta" e erros críticos. |
 | **Fundo** | `#F5F5F5` | Background das telas para reduzir fadiga visual. |
 
-### 🖋️ Tipografia e Componentes
+### Tipografia e Componentes
 * **Fonte:** Sans-serif (Roboto ou Open Sans).
 * **Botões:** Altura mínima de 48dp com cantos levemente arredondados (8px).
 * **Elevação:** Sombra suave (Level 1) em cards de turmas para profundidade.
